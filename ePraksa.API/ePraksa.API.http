@@ -1,0 +1,6 @@
+@ePraksa.API_HostAddress = http://localhost:5212
+
+GET {{ePraksa.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

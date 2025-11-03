@@ -1,0 +1,38 @@
+C:\Users\Korisnik\OneDrive - Faculty of Information Technologies\Desktop\ePraksa_probna\ePraksa.Infrastructure\obj\Debug\net8.0\ePraksa.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Korisnik\OneDrive - Faculty of Information Technologies\Desktop\ePraksa_probna\ePraksa.Infrastructure\obj\Debug\net8.0\ePraksa.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Korisnik\OneDrive - Faculty of Information Technologies\Desktop\ePraksa_probna\ePraksa.Infrastructure\obj\Debug\net8.0\ePraksa.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Korisnik\OneDrive - Faculty of Information Technologies\Desktop\ePraksa_probna\ePraksa.Infrastructure\obj\Debug\net8.0\ePraksa.Infrastructure.AssemblyInfo.cs
+C:\Users\Korisnik\OneDrive - Faculty of Information Technologies\Desktop\ePraksa_probna\ePraksa.Infrastructure\obj\Debug\net8.0\ePraksa.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\OneDrive - Faculty of Information Technologies\Desktop\ePraksa_probna\ePraksa.Infrastructure\bin\Debug\net8.0\ePraksa.Infrastructure.deps.json
+C:\Users\Korisnik\OneDrive - Faculty of Information Technologies\Desktop\ePraksa_probna\ePraksa.Infrastructure\bin\Debug\net8.0\ePraksa.Infrastructure.runtimeconfig.json
+C:\Users\Korisnik\OneDrive - Faculty of Information Technologies\Desktop\ePraksa_probna\ePraksa.Infrastructure\bin\Debug\net8.0\ePraksa.Infrastructure.dll
+C:\Users\Korisnik\OneDrive - Faculty of Information Technologies\Desktop\ePraksa_probna\ePraksa.Infrastructure\bin\Debug\net8.0\ePraksa.Infrastructure.pdb
+C:\Users\Korisnik\OneDrive - Faculty of Information Technologies\Desktop\ePraksa_probna\ePraksa.Infrastructure\bin\Debug\net8.0\ePraksa.Application.dll
+C:\Users\Korisnik\OneDrive - Faculty of Information Technologies\Desktop\ePraksa_probna\ePraksa.Infrastructure\bin\Debug\net8.0\ePraksa.Domain.dll
+C:\Users\Korisnik\OneDrive - Faculty of Information Technologies\Desktop\ePraksa_probna\ePraksa.Infrastructure\bin\Debug\net8.0\ePraksa.Domain.pdb
+C:\Users\Korisnik\OneDrive - Faculty of Information Technologies\Desktop\ePraksa_probna\ePraksa.Infrastructure\bin\Debug\net8.0\ePraksa.Application.pdb
+C:\Users\Korisnik\OneDrive - Faculty of Information Technologies\Desktop\ePraksa_probna\ePraksa.Infrastructure\obj\Debug\net8.0\ePraksa..AC2D86B4.Up2Date
+C:\Users\Korisnik\OneDrive - Faculty of Information Technologies\Desktop\ePraksa_probna\ePraksa.Infrastructure\obj\Debug\net8.0\ePraksa.Infrastructure.dll
+C:\Users\Korisnik\OneDrive - Faculty of Information Technologies\Desktop\ePraksa_probna\ePraksa.Infrastructure\obj\Debug\net8.0\refint\ePraksa.Infrastructure.dll
+C:\Users\Korisnik\OneDrive - Faculty of Information Technologies\Desktop\ePraksa_probna\ePraksa.Infrastructure\obj\Debug\net8.0\ePraksa.Infrastructure.pdb
+C:\Users\Korisnik\OneDrive - Faculty of Information Technologies\Desktop\ePraksa_probna\ePraksa.Infrastructure\obj\Debug\net8.0\ePraksa.Infrastructure.genruntimeconfig.cache
+C:\Users\Korisnik\OneDrive - Faculty of Information Technologies\Desktop\ePraksa_probna\ePraksa.Infrastructure\obj\Debug\net8.0\ref\ePraksa.Infrastructure.dll
+C:\Users\Korisnik\ePraksa_probna\ePraksa.Infrastructure\bin\Debug\net8.0\ePraksa.Infrastructure.deps.json
+C:\Users\Korisnik\ePraksa_probna\ePraksa.Infrastructure\bin\Debug\net8.0\ePraksa.Infrastructure.runtimeconfig.json
+C:\Users\Korisnik\ePraksa_probna\ePraksa.Infrastructure\bin\Debug\net8.0\ePraksa.Infrastructure.dll
+C:\Users\Korisnik\ePraksa_probna\ePraksa.Infrastructure\bin\Debug\net8.0\ePraksa.Infrastructure.pdb
+C:\Users\Korisnik\ePraksa_probna\ePraksa.Infrastructure\bin\Debug\net8.0\ePraksa.Application.dll
+C:\Users\Korisnik\ePraksa_probna\ePraksa.Infrastructure\bin\Debug\net8.0\ePraksa.Domain.dll
+C:\Users\Korisnik\ePraksa_probna\ePraksa.Infrastructure\bin\Debug\net8.0\ePraksa.Domain.pdb
+C:\Users\Korisnik\ePraksa_probna\ePraksa.Infrastructure\bin\Debug\net8.0\ePraksa.Application.pdb
+C:\Users\Korisnik\ePraksa_probna\ePraksa.Infrastructure\obj\Debug\net8.0\ePraksa.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Korisnik\ePraksa_probna\ePraksa.Infrastructure\obj\Debug\net8.0\ePraksa.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Korisnik\ePraksa_probna\ePraksa.Infrastructure\obj\Debug\net8.0\ePraksa.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Korisnik\ePraksa_probna\ePraksa.Infrastructure\obj\Debug\net8.0\ePraksa.Infrastructure.AssemblyInfo.cs
+C:\Users\Korisnik\ePraksa_probna\ePraksa.Infrastructure\obj\Debug\net8.0\ePraksa.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\ePraksa_probna\ePraksa.Infrastructure\obj\Debug\net8.0\ePraksa..AC2D86B4.Up2Date
+C:\Users\Korisnik\ePraksa_probna\ePraksa.Infrastructure\obj\Debug\net8.0\ePraksa.Infrastructure.dll
+C:\Users\Korisnik\ePraksa_probna\ePraksa.Infrastructure\obj\Debug\net8.0\refint\ePraksa.Infrastructure.dll
+C:\Users\Korisnik\ePraksa_probna\ePraksa.Infrastructure\obj\Debug\net8.0\ePraksa.Infrastructure.pdb
+C:\Users\Korisnik\ePraksa_probna\ePraksa.Infrastructure\obj\Debug\net8.0\ePraksa.Infrastructure.genruntimeconfig.cache
+C:\Users\Korisnik\ePraksa_probna\ePraksa.Infrastructure\obj\Debug\net8.0\ref\ePraksa.Infrastructure.dll

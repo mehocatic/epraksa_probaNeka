@@ -1,0 +1,231 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "ePraksa.API",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/grad": {
+      "get": {
+        "tags": [
+          "Grad"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/profil-student": {
+      "post": {
+        "tags": [
+          "ProfilStudent"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/CreateProfilStudentRequest"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/CreateProfilStudentRequest"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/CreateProfilStudentRequest"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "integer",
+                  "format": "int32"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "integer",
+                  "format": "int32"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "integer",
+                  "format": "int32"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/profil-student/{id}": {
+      "get": {
+        "tags": [
+          "ProfilStudent"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/tehnologija": {
+      "get": {
+        "tags": [
+          "Tehnologija"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/test/gradovi": {
+      "get": {
+        "tags": [
+          "Test"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/test/tehnologije": {
+      "get": {
+        "tags": [
+          "Test"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "CreateProfilStudentRequest": {
+        "type": "object",
+        "properties": {
+          "idKorisnik": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "ime": {
+            "type": "string",
+            "nullable": true
+          },
+          "prezime": {
+            "type": "string",
+            "nullable": true
+          },
+          "datumRodjenja": {
+            "type": "string",
+            "format": "date-time",
+            "nullable": true
+          },
+          "fakultet": {
+            "type": "string",
+            "nullable": true
+          },
+          "idGrad": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "tehnologijeIds": {
+            "type": "array",
+            "items": {
+              "type": "integer",
+              "format": "int32"
+            },
+            "nullable": true
+          },
+          "obrazovanja": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/ObrazovanjeItem"
+            },
+            "nullable": true
+          },
+          "dokumenti": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/DokumentItem"
+            },
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "DokumentItem": {
+        "type": "object",
+        "properties": {
+          "naziv": {
+            "type": "string",
+            "nullable": true
+          },
+          "putanja": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "ObrazovanjeItem": {
+        "type": "object",
+        "properties": {
+          "institucija": {
+            "type": "string",
+            "nullable": true
+          },
+          "smjer": {
+            "type": "string",
+            "nullable": true
+          },
+          "nivoStudija": {
+            "type": "string",
+            "nullable": true
+          },
+          "godinaUpisa": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "godinaZavrsetka": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}

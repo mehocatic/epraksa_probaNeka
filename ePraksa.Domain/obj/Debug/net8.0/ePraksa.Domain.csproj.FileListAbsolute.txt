@@ -1,0 +1,22 @@
+C:\Users\Korisnik\OneDrive - Faculty of Information Technologies\Desktop\ePraksa_probna\ePraksa.Domain\bin\Debug\net8.0\ePraksa.Domain.deps.json
+C:\Users\Korisnik\OneDrive - Faculty of Information Technologies\Desktop\ePraksa_probna\ePraksa.Domain\bin\Debug\net8.0\ePraksa.Domain.dll
+C:\Users\Korisnik\OneDrive - Faculty of Information Technologies\Desktop\ePraksa_probna\ePraksa.Domain\bin\Debug\net8.0\ePraksa.Domain.pdb
+C:\Users\Korisnik\OneDrive - Faculty of Information Technologies\Desktop\ePraksa_probna\ePraksa.Domain\obj\Debug\net8.0\ePraksa.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Korisnik\OneDrive - Faculty of Information Technologies\Desktop\ePraksa_probna\ePraksa.Domain\obj\Debug\net8.0\ePraksa.Domain.AssemblyInfoInputs.cache
+C:\Users\Korisnik\OneDrive - Faculty of Information Technologies\Desktop\ePraksa_probna\ePraksa.Domain\obj\Debug\net8.0\ePraksa.Domain.AssemblyInfo.cs
+C:\Users\Korisnik\OneDrive - Faculty of Information Technologies\Desktop\ePraksa_probna\ePraksa.Domain\obj\Debug\net8.0\ePraksa.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\OneDrive - Faculty of Information Technologies\Desktop\ePraksa_probna\ePraksa.Domain\obj\Debug\net8.0\ePraksa.Domain.dll
+C:\Users\Korisnik\OneDrive - Faculty of Information Technologies\Desktop\ePraksa_probna\ePraksa.Domain\obj\Debug\net8.0\refint\ePraksa.Domain.dll
+C:\Users\Korisnik\OneDrive - Faculty of Information Technologies\Desktop\ePraksa_probna\ePraksa.Domain\obj\Debug\net8.0\ePraksa.Domain.pdb
+C:\Users\Korisnik\OneDrive - Faculty of Information Technologies\Desktop\ePraksa_probna\ePraksa.Domain\obj\Debug\net8.0\ref\ePraksa.Domain.dll
+C:\Users\Korisnik\ePraksa_probna\ePraksa.Domain\bin\Debug\net8.0\ePraksa.Domain.deps.json
+C:\Users\Korisnik\ePraksa_probna\ePraksa.Domain\bin\Debug\net8.0\ePraksa.Domain.dll
+C:\Users\Korisnik\ePraksa_probna\ePraksa.Domain\bin\Debug\net8.0\ePraksa.Domain.pdb
+C:\Users\Korisnik\ePraksa_probna\ePraksa.Domain\obj\Debug\net8.0\ePraksa.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Korisnik\ePraksa_probna\ePraksa.Domain\obj\Debug\net8.0\ePraksa.Domain.AssemblyInfoInputs.cache
+C:\Users\Korisnik\ePraksa_probna\ePraksa.Domain\obj\Debug\net8.0\ePraksa.Domain.AssemblyInfo.cs
+C:\Users\Korisnik\ePraksa_probna\ePraksa.Domain\obj\Debug\net8.0\ePraksa.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\ePraksa_probna\ePraksa.Domain\obj\Debug\net8.0\ePraksa.Domain.dll
+C:\Users\Korisnik\ePraksa_probna\ePraksa.Domain\obj\Debug\net8.0\refint\ePraksa.Domain.dll
+C:\Users\Korisnik\ePraksa_probna\ePraksa.Domain\obj\Debug\net8.0\ePraksa.Domain.pdb
+C:\Users\Korisnik\ePraksa_probna\ePraksa.Domain\obj\Debug\net8.0\ref\ePraksa.Domain.dll

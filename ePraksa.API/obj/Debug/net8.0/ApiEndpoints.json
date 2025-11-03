@@ -1,0 +1,84 @@
+[
+  {
+    "ContainingType": "ePraksa.API.Controllers.GradController",
+    "Method": "GetGradovi",
+    "RelativePath": "api/grad",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ePraksa.API.Controllers.ProfilStudentController",
+    "Method": "Create",
+    "RelativePath": "api/profil-student",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "body",
+        "Type": "ePraksa.Application.Modules.ProfilStudent.DTOs.CreateProfilStudentRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Int32",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ePraksa.API.Controllers.ProfilStudentController",
+    "Method": "GetById",
+    "RelativePath": "api/profil-student/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ePraksa.API.Controllers.TehnologijaController",
+    "Method": "Get",
+    "RelativePath": "api/tehnologija",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ePraksa.API.Controllers.TestController",
+    "Method": "Gradovi",
+    "RelativePath": "api/test/gradovi",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ePraksa.API.Controllers.TestController",
+    "Method": "Tehnologije",
+    "RelativePath": "api/test/tehnologije",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

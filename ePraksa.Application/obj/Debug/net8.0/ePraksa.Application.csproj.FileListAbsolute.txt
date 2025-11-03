@@ -1,0 +1,30 @@
+C:\Users\Korisnik\OneDrive - Faculty of Information Technologies\Desktop\ePraksa_probna\ePraksa.Application\bin\Debug\net8.0\ePraksa.Application.deps.json
+C:\Users\Korisnik\OneDrive - Faculty of Information Technologies\Desktop\ePraksa_probna\ePraksa.Application\bin\Debug\net8.0\ePraksa.Application.dll
+C:\Users\Korisnik\OneDrive - Faculty of Information Technologies\Desktop\ePraksa_probna\ePraksa.Application\bin\Debug\net8.0\ePraksa.Application.pdb
+C:\Users\Korisnik\OneDrive - Faculty of Information Technologies\Desktop\ePraksa_probna\ePraksa.Application\bin\Debug\net8.0\ePraksa.Domain.dll
+C:\Users\Korisnik\OneDrive - Faculty of Information Technologies\Desktop\ePraksa_probna\ePraksa.Application\bin\Debug\net8.0\ePraksa.Domain.pdb
+C:\Users\Korisnik\OneDrive - Faculty of Information Technologies\Desktop\ePraksa_probna\ePraksa.Application\obj\Debug\net8.0\ePraksa.Application.csproj.AssemblyReference.cache
+C:\Users\Korisnik\OneDrive - Faculty of Information Technologies\Desktop\ePraksa_probna\ePraksa.Application\obj\Debug\net8.0\ePraksa.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Korisnik\OneDrive - Faculty of Information Technologies\Desktop\ePraksa_probna\ePraksa.Application\obj\Debug\net8.0\ePraksa.Application.AssemblyInfoInputs.cache
+C:\Users\Korisnik\OneDrive - Faculty of Information Technologies\Desktop\ePraksa_probna\ePraksa.Application\obj\Debug\net8.0\ePraksa.Application.AssemblyInfo.cs
+C:\Users\Korisnik\OneDrive - Faculty of Information Technologies\Desktop\ePraksa_probna\ePraksa.Application\obj\Debug\net8.0\ePraksa.Application.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\OneDrive - Faculty of Information Technologies\Desktop\ePraksa_probna\ePraksa.Application\obj\Debug\net8.0\ePraksa..343AC84D.Up2Date
+C:\Users\Korisnik\OneDrive - Faculty of Information Technologies\Desktop\ePraksa_probna\ePraksa.Application\obj\Debug\net8.0\ePraksa.Application.dll
+C:\Users\Korisnik\OneDrive - Faculty of Information Technologies\Desktop\ePraksa_probna\ePraksa.Application\obj\Debug\net8.0\refint\ePraksa.Application.dll
+C:\Users\Korisnik\OneDrive - Faculty of Information Technologies\Desktop\ePraksa_probna\ePraksa.Application\obj\Debug\net8.0\ePraksa.Application.pdb
+C:\Users\Korisnik\OneDrive - Faculty of Information Technologies\Desktop\ePraksa_probna\ePraksa.Application\obj\Debug\net8.0\ref\ePraksa.Application.dll
+C:\Users\Korisnik\ePraksa_probna\ePraksa.Application\bin\Debug\net8.0\ePraksa.Application.deps.json
+C:\Users\Korisnik\ePraksa_probna\ePraksa.Application\bin\Debug\net8.0\ePraksa.Application.dll
+C:\Users\Korisnik\ePraksa_probna\ePraksa.Application\bin\Debug\net8.0\ePraksa.Application.pdb
+C:\Users\Korisnik\ePraksa_probna\ePraksa.Application\bin\Debug\net8.0\ePraksa.Domain.dll
+C:\Users\Korisnik\ePraksa_probna\ePraksa.Application\bin\Debug\net8.0\ePraksa.Domain.pdb
+C:\Users\Korisnik\ePraksa_probna\ePraksa.Application\obj\Debug\net8.0\ePraksa.Application.csproj.AssemblyReference.cache
+C:\Users\Korisnik\ePraksa_probna\ePraksa.Application\obj\Debug\net8.0\ePraksa.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Korisnik\ePraksa_probna\ePraksa.Application\obj\Debug\net8.0\ePraksa.Application.AssemblyInfoInputs.cache
+C:\Users\Korisnik\ePraksa_probna\ePraksa.Application\obj\Debug\net8.0\ePraksa.Application.AssemblyInfo.cs
+C:\Users\Korisnik\ePraksa_probna\ePraksa.Application\obj\Debug\net8.0\ePraksa.Application.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\ePraksa_probna\ePraksa.Application\obj\Debug\net8.0\ePraksa..343AC84D.Up2Date
+C:\Users\Korisnik\ePraksa_probna\ePraksa.Application\obj\Debug\net8.0\ePraksa.Application.dll
+C:\Users\Korisnik\ePraksa_probna\ePraksa.Application\obj\Debug\net8.0\refint\ePraksa.Application.dll
+C:\Users\Korisnik\ePraksa_probna\ePraksa.Application\obj\Debug\net8.0\ePraksa.Application.pdb
+C:\Users\Korisnik\ePraksa_probna\ePraksa.Application\obj\Debug\net8.0\ref\ePraksa.Application.dll

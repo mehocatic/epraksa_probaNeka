@@ -1,0 +1,41 @@
+# Visual Studio / Rider
+.vs/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# .NET build
+bin/
+obj/
+[Bb]uild/
+[Ll]og/
+
+# ASP.NET Core
+wwwroot/lib/
+App_Data/
+
+# Angular / Node
+node_modules/
+dist/
+.angular/
+.npm/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-store/
+
+# Test
+coverage/
+TestResults/
+*.trx
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Misc
+*.vsidx
+*.cache
+*.lock.json
