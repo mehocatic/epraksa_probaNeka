@@ -1,4 +1,4 @@
-# Visual Studio / Rider
+# Visual Studio / Rider / VSCode
 .vs/
 .vscode/
 *.suo
@@ -11,6 +11,9 @@ bin/
 obj/
 [Bb]uild/
 [Ll]og/
+*.dll
+*.exe
+*.pdb
 
 # ASP.NET Core
 wwwroot/lib/
@@ -21,21 +24,18 @@ node_modules/
 dist/
 .angular/
 .npm/
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-.pnpm-store/
+*.log
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
 
 # Test
-coverage/
 TestResults/
+coverage/
 *.trx
 
-# OS
-.DS_Store
+# OS files
 Thumbs.db
-
-# Misc
-*.vsidx
-*.cache
-*.lock.json
+.DS_Store
