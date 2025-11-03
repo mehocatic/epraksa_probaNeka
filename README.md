@@ -44,4 +44,3 @@
 - Node.js 18+ i Angular CLI (`npm i -g @angular/cli`)
 - SQL Server (Express/LocalDB)
 
-**Backend:**
