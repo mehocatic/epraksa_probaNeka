@@ -1,8 +1,9 @@
-﻿using MediatR;
-using Microsoft.AspNetCore.Mvc;
+﻿using ePraksa.Application.Modules.ProfilStudent.Commands.Create;
+using ePraksa.Application.Modules.ProfilStudent.Commands.Update;
 using ePraksa.Application.Modules.ProfilStudent.DTOs;
-using ePraksa.Application.Modules.ProfilStudent.Commands.Create;
 using ePraksa.Application.Modules.ProfilStudent.Queries.GetById;
+using MediatR;
+using Microsoft.AspNetCore.Mvc;
 
 namespace ePraksa.API.Controllers;
 
@@ -35,4 +36,13 @@ public class ProfilStudentController : ControllerBase
 
         return Ok(result);
     }
+
+    // PUT: api/profil-student/{id}
+    [HttpPut("{id:int}")]
+    public async Task<IActionResult> Update(int id, [FromBody] UpdateProfilStudentRequest body)
+    {
+        await _mediator.Send(new UpdateProfilStudentCommand(id, body));
+        return NoContent();
+    }
+
 }

@@ -1,6 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using ePraksa.Domain.Entities.EPraksa; // <-- bitno da imaš EPraksa namespace
 using ePraksa.Domain.Entities;
-
 namespace ePraksa.Infrastructure.Database;
 
 public class DevSeeder
@@ -14,12 +14,23 @@ public class DevSeeder
 
     public async Task Seed()
     {
-        
-        //await SeedStatusPrijave();
-        await SeedTehnologije();
+        await SeedKorisnici();
+        await SeedGradovi();
         await SeedTehnologije();
 
         await _db.SaveChangesAsync();
+    }
+
+    private async Task SeedKorisnici()
+    {
+        if (!await _db.Korisnici.AnyAsync())
+        {
+            _db.Korisnici.AddRange(
+                new Korisnik { Email = "student@test.com", Lozinka = "123", TipKorisnika = "student", Aktivna = true },
+                new Korisnik { Email = "firma@test.com", Lozinka = "123", TipKorisnika = "kompanija", Aktivna = true },
+                new Korisnik { Email = "admin@test.com", Lozinka = "admin", TipKorisnika = "admin", Aktivna = true }
+            );
+        }
     }
 
     private async Task SeedGradovi()
@@ -35,19 +46,20 @@ public class DevSeeder
             );
         }
     }
+
     private async Task SeedTehnologije()
     {
         var defaultTehnologije = new List<string>
-    {
-        "C#",
-        "ASP.NET",
-        "Angular",
-        "React",
-        "JavaScript",
-        "SQL",
-        "Python",
-        "Java"
-    };
+        {
+            "C#",
+            "ASP.NET",
+            "Angular",
+            "React",
+            "JavaScript",
+            "SQL",
+            "Python",
+            "Java"
+        };
 
         var existing = await _db.Tehnologije
             .Select(x => x.Naziv)
@@ -61,22 +73,6 @@ public class DevSeeder
         {
             foreach (var naziv in toAdd)
                 _db.Tehnologije.Add(new() { Naziv = naziv });
-
-            await _db.SaveChangesAsync();
         }
     }
-
-
-    //private async Task SeedStatusPrijave()
-    //{
-    //    if (!await _db.StatusPrijave.AnyAsync())
-    //    {
-    //        _db.StatusPrijave.AddRange(
-    //            new() { Naziv = "U toku" },
-    //            new() { Naziv = "Prihvaćeno" },
-    //            new() { Naziv = "Odbijeno" }
-    //        );
-    //    }
-    //}
-
 }
